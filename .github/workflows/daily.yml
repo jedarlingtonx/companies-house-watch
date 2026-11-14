@@ -25,3 +25,8 @@ jobs:
           git add results
           git diff --staged --quiet || git commit -m "Results for $(date -u +%F)"
           git push
+      - name: Email results
+        run: python send_email.py
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
