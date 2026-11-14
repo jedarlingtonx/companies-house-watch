@@ -12,8 +12,8 @@ XLSX = "results/new-companies.xlsx"
 
 
 def main():
-    user = os.environ["GMAIL_USER"]
-    password = os.environ["GMAIL_APP_PASSWORD"].replace(" ", "")
+    user = "".join(os.environ["GMAIL_USER"].split())
+    password = "".join(os.environ["GMAIL_APP_PASSWORD"].split())
 
     with open("results/latest.json") as f:
         data = json.load(f)
