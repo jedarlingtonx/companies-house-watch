@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-15T13:23:02.208450+00:00",
+  "searched_places": [
+    "Northwich",
+    "Alderley Edge",
+    "Wilmslow",
+    "Prestbury",
+    "Knutsford",
+    "Poynton",
+    "Bollington",
+    "Handforth",
+    "Mobberley",
+    "Macclesfield",
+    "Disley",
+    "Tarporley",
+    "Chester",
+    "Tarvin",
+    "Tattenhall",
+    "Farndon",
+    "Malpas",
+    "Frodsham",
+    "Nantwich",
+    "Holmes Chapel",
+    "Sandbach",
+    "Hartford",
+    "Sandiway",
+    "Cuddington",
+    "Delamere",
+    "Davenham",
+    "Hale",
+    "Bowdon",
+    "Bramhall"
+  ],
+  "failed_places": {},
+  "count": 2,
+  "companies": [
+    {
+      "name": "INSIGHT PROJECT SOLUTIONS LTD",
+      "number": "17581346",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-14",
+      "address": "28 Bouncers Lane, Prestbury, Cheltenham, GL52 5JF, England",
+      "sic_codes": [
+        "70229"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17581346",
+      "matched_places": [
+        "Prestbury"
+      ]
+    },
+    {
+      "name": "JM CONSTRUCTION PS LIMITED",
+      "number": "17581156",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-14",
+      "address": "28 Ravenwood Drive, Hale Barns, Altrincham, WA15 0JA, England",
+      "sic_codes": [
+        "41100",
+        "41201",
+        "41202"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17581156",
+      "matched_places": [
+        "Hale"
+      ]
+    }
+  ]
+}
