@@ -56,6 +56,16 @@ def describe(codes, sic):
     return "; ".join(sic.get(str(c).strip().zfill(5), "description not found") for c in codes)
 
 
+def add_descriptions(path, sic):
+    """Save the plain-English business description into the JSON file."""
+    with open(path) as f:
+        data = json.load(f)
+    for c in data["companies"]:
+        c["business_description"] = describe(c.get("sic_codes", []), sic)
+    with open(path, "w") as f:
+        json.dump(data, f, indent=2)
+
+
 def load_rows(path):
     with open(path) as f:
         return json.load(f)["companies"]
@@ -98,6 +108,8 @@ def main():
         raise SystemExit("No daily result files found")
 
     sic = load_sic()
+    add_descriptions(files[-1], sic)
+    add_descriptions("results/latest.json", sic)
     latest = load_rows(files[-1])
 
     seen, everything = set(), []
