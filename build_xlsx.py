@@ -5,6 +5,7 @@ import glob
 import io
 import json
 import os
+import urllib.parse
 import urllib.request
 
 from openpyxl import Workbook
@@ -18,9 +19,9 @@ SIC_CACHE = "data/sic07.csv"
 HEADERS = [
     "Incorporated", "Company name", "Company number", "Type", "Status",
     "Matched place(s)", "Registered office address", "SIC codes",
-    "What the business does", "Companies House link",
+    "What the business does", "Companies House link", "Street View / map",
 ]
-WIDTHS = [14, 40, 16, 22, 12, 24, 60, 16, 50, 22]
+WIDTHS = [14, 40, 16, 22, 12, 24, 60, 16, 50, 22, 20]
 
 
 def load_sic():
@@ -56,12 +57,21 @@ def describe(codes, sic):
     return "; ".join(sic.get(str(c).strip().zfill(5), "description not found") for c in codes)
 
 
+def map_url(address):
+    """Google Maps link for an address (one click from Street View)."""
+    if not address:
+        return None
+    return ("https://www.google.com/maps/search/?api=1&query="
+            + urllib.parse.quote_plus(address))
+
+
 def add_descriptions(path, sic):
-    """Save the plain-English business description into the JSON file."""
+    """Save the business description and a map link into the JSON file."""
     with open(path) as f:
         data = json.load(f)
     for c in data["companies"]:
         c["business_description"] = describe(c.get("sic_codes", []), sic)
+        c["map_url"] = map_url(c.get("address"))
     with open(path, "w") as f:
         json.dump(data, f, indent=2)
 
@@ -86,11 +96,14 @@ def write_sheet(ws, companies, sic):
             ", ".join(codes),
             describe(codes, sic),
             "Open",
+            "Open map" if c.get("address") else "",
         ])
         ws.cell(row=ws.max_row, column=9).alignment = Alignment(wrap_text=True, vertical="top")
-        cell = ws.cell(row=ws.max_row, column=len(HEADERS))
-        cell.hyperlink = c.get("url")
-        cell.font = Font(color="0563C1", underline="single")
+        for col, url in ((10, c.get("url")), (11, map_url(c.get("address")))):
+            if url:
+                cell = ws.cell(row=ws.max_row, column=col)
+                cell.hyperlink = url
+                cell.font = Font(color="0563C1", underline="single")
     header_fill = PatternFill("solid", fgColor="1F3864")
     for col, width in enumerate(WIDTHS, start=1):
         cell = ws.cell(row=1, column=col)
