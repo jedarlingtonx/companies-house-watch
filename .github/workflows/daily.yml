@@ -17,6 +17,10 @@ jobs:
       - run: python fetch.py
         env:
           CH_API_KEY: ${{ secrets.CH_API_KEY }}
+      - name: Check for accountant / agent addresses
+        run: python check_addresses.py
+        env:
+          CH_API_KEY: ${{ secrets.CH_API_KEY }}
       - run: python build_xlsx.py
       - name: Commit results
         run: |

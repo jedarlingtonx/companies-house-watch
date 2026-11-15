@@ -20,8 +20,10 @@ HEADERS = [
     "Incorporated", "Company name", "Company number", "Type", "Status",
     "Matched place(s)", "Registered office address", "SIC codes",
     "What the business does", "Companies House link", "Street View / map",
+    "Address check",
 ]
-WIDTHS = [14, 40, 16, 22, 12, 24, 60, 16, 50, 22, 20]
+WIDTHS = [14, 40, 16, 22, 12, 24, 60, 16, 50, 22, 20, 55]
+FLAG_FILL = PatternFill("solid", fgColor="FCE4D6")
 
 
 def load_sic():
@@ -81,6 +83,15 @@ def load_rows(path):
         return json.load(f)["companies"]
 
 
+def address_check_text(c):
+    check = c.get("address_check")
+    if not check:
+        return ""
+    if check.get("third_party"):
+        return "Likely third-party address: " + "; ".join(check.get("reasons", []))
+    return "OK"
+
+
 def write_sheet(ws, companies, sic):
     ws.append(HEADERS)
     for c in companies:
@@ -97,7 +108,11 @@ def write_sheet(ws, companies, sic):
             describe(codes, sic),
             "Open",
             "Open map" if c.get("address") else "",
+            address_check_text(c),
         ])
+        if (c.get("address_check") or {}).get("third_party"):
+            for col in range(1, len(HEADERS) + 1):
+                ws.cell(row=ws.max_row, column=col).fill = FLAG_FILL
         ws.cell(row=ws.max_row, column=9).alignment = Alignment(wrap_text=True, vertical="top")
         for col, url in ((10, c.get("url")), (11, map_url(c.get("address")))):
             if url:
