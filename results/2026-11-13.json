@@ -48,7 +48,12 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17579334",
       "matched_places": [
         "Alderley Edge"
-      ]
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 0
+      }
     },
     {
       "name": "AVIBIO SEARCH LTD",
@@ -63,7 +68,12 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17580446",
       "matched_places": [
         "Macclesfield"
-      ]
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 0
+      }
     },
     {
       "name": "BEESTON COURT LTD",
@@ -78,7 +88,14 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17579873",
       "matched_places": [
         "Chester"
-      ]
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "40 other companies registered at this address"
+        ],
+        "others_at_address": 40
+      }
     },
     {
       "name": "BEESTON FINANCE LTD",
@@ -93,7 +110,14 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17579475",
       "matched_places": [
         "Chester"
-      ]
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "40 other companies registered at this address"
+        ],
+        "others_at_address": 40
+      }
     },
     {
       "name": "BEESTON GREEN LTD",
@@ -108,7 +132,14 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17579428",
       "matched_places": [
         "Chester"
-      ]
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "39 other companies registered at this address"
+        ],
+        "others_at_address": 39
+      }
     },
     {
       "name": "BEESTON HEATH LTD",
@@ -123,7 +154,14 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17579429",
       "matched_places": [
         "Chester"
-      ]
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "40 other companies registered at this address"
+        ],
+        "others_at_address": 40
+      }
     },
     {
       "name": "BEESTON INDUSTRIAL LTD",
@@ -138,7 +176,14 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17579436",
       "matched_places": [
         "Chester"
-      ]
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "40 other companies registered at this address"
+        ],
+        "others_at_address": 40
+      }
     },
     {
       "name": "BRAMHALL GRILL MCR LIMITED",
@@ -153,7 +198,12 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17580193",
       "matched_places": [
         "Bramhall"
-      ]
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 0
+      }
     },
     {
       "name": "CC (RUSTINGTON) NEWCO 1A LIMITED",
@@ -168,7 +218,14 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17580164",
       "matched_places": [
         "Handforth"
-      ]
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "80 other companies registered at this address"
+        ],
+        "others_at_address": 80
+      }
     },
     {
       "name": "CHESTER EXPRESS LIMITED",
@@ -184,7 +241,12 @@
       "matched_places": [
         "Chester",
         "Tattenhall"
-      ]
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 0
+      }
     },
     {
       "name": "CHOOSE YOU COLLECTIVE LTD",
@@ -199,7 +261,12 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17580480",
       "matched_places": [
         "Chester"
-      ]
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 0
+      }
     },
     {
       "name": "CLAIRE BRIGHT LTD",
@@ -214,7 +281,12 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17580780",
       "matched_places": [
         "Knutsford"
-      ]
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 1
+      }
     },
     {
       "name": "COURTI.AI LIMITED",
@@ -229,7 +301,14 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17579703",
       "matched_places": [
         "Knutsford"
-      ]
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "17 other companies registered at this address"
+        ],
+        "others_at_address": 17
+      }
     },
     {
       "name": "ELENI SHARP LTD",
@@ -244,7 +323,14 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17580822",
       "matched_places": [
         "Bramhall"
-      ]
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "78 other companies registered at this address"
+        ],
+        "others_at_address": 78
+      }
     },
     {
       "name": "EMMA ENGINEERING LIMITED",
@@ -262,7 +348,12 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17581072",
       "matched_places": [
         "Frodsham"
-      ]
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 0
+      }
     },
     {
       "name": "FLOOR RESTORE GROUP LIMITED",
@@ -277,7 +368,12 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17580730",
       "matched_places": [
         "Sandbach"
-      ]
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 2
+      }
     },
     {
       "name": "FROSTY AIR CONDITIONING LTD",
@@ -292,7 +388,12 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17580111",
       "matched_places": [
         "Hartford"
-      ]
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 1
+      }
     },
     {
       "name": "GENZ HOME LIMITED",
@@ -307,7 +408,14 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17580949",
       "matched_places": [
         "Macclesfield"
-      ]
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "92 other companies registered at this address"
+        ],
+        "others_at_address": 92
+      }
     },
     {
       "name": "GENZ SOFA LIMITED",
@@ -322,7 +430,14 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17580778",
       "matched_places": [
         "Macclesfield"
-      ]
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "92 other companies registered at this address"
+        ],
+        "others_at_address": 92
+      }
     },
     {
       "name": "HOUSE OF SKIES LTD",
@@ -338,7 +453,12 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17580254",
       "matched_places": [
         "Macclesfield"
-      ]
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 1
+      }
     },
     {
       "name": "HOWR LIMITED",
@@ -355,7 +475,12 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17579538",
       "matched_places": [
         "Wilmslow"
-      ]
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 0
+      }
     },
     {
       "name": "KEM GROUP PROPERTY LTD",
@@ -370,7 +495,14 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17580281",
       "matched_places": [
         "Macclesfield"
-      ]
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "3 other companies registered at this address"
+        ],
+        "others_at_address": 3
+      }
     },
     {
       "name": "LITTLETON PROPERTY PROMOTIONS LTD",
@@ -385,7 +517,14 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17580539",
       "matched_places": [
         "Chester"
-      ]
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "11 other companies registered at this address"
+        ],
+        "others_at_address": 11
+      }
     },
     {
       "name": "M AND R MULLER LIMITED",
@@ -400,7 +539,14 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17580132",
       "matched_places": [
         "Wilmslow"
-      ]
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "94 other companies registered at this address"
+        ],
+        "others_at_address": 94
+      }
     },
     {
       "name": "MARVEL CORNER SHOP LTD",
@@ -415,7 +561,12 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17580411",
       "matched_places": [
         "Sandbach"
-      ]
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 0
+      }
     },
     {
       "name": "ORVESTA SOLUTIONS LTD",
@@ -430,7 +581,14 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17579431",
       "matched_places": [
         "Chester"
-      ]
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "17 other companies registered at this address"
+        ],
+        "others_at_address": 17
+      }
     },
     {
       "name": "PURE PADEL CLUBS CANNING TOWN LIMITED",
@@ -445,7 +603,15 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17579923",
       "matched_places": [
         "Hale"
-      ]
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "4 other companies registered at this address",
+          "floor"
+        ],
+        "others_at_address": 4
+      }
     },
     {
       "name": "RKBY MEDICAL LTD",
@@ -460,7 +626,12 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17581101",
       "matched_places": [
         "Hale"
-      ]
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 2
+      }
     },
     {
       "name": "SIENA LIVING & MEDIA LTD",
@@ -477,7 +648,12 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17579778",
       "matched_places": [
         "Macclesfield"
-      ]
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 0
+      }
     },
     {
       "name": "SWALLOWS SUFFOLKS LIMITED",
@@ -493,7 +669,14 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17579753",
       "matched_places": [
         "Nantwich"
-      ]
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "3 other companies registered at this address"
+        ],
+        "others_at_address": 3
+      }
     },
     {
       "name": "TD MANAGEMENT COMPANY (BOOTLE) LIMITED",
@@ -508,7 +691,14 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17580917",
       "matched_places": [
         "Chester"
-      ]
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "12 other companies registered at this address"
+        ],
+        "others_at_address": 12
+      }
     },
     {
       "name": "THE DIAMOND RENDER LTD",
@@ -523,7 +713,12 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17580042",
       "matched_places": [
         "Hale"
-      ]
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 2
+      }
     },
     {
       "name": "WAXBUG LTD",
@@ -540,7 +735,12 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17579591",
       "matched_places": [
         "Wilmslow"
-      ]
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 1
+      }
     },
     {
       "name": "YGMST LTD",
@@ -555,7 +755,14 @@
       "url": "https://find-and-update.company-information.service.gov.uk/company/17579672",
       "matched_places": [
         "Wilmslow"
-      ]
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "5 other companies registered at this address"
+        ],
+        "others_at_address": 5
+      }
     }
   ]
 }

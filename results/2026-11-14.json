@@ -49,7 +49,14 @@
       "matched_places": [
         "Prestbury"
       ],
-      "business_description": "Management consultancy activities other than financial management"
+      "business_description": "Management consultancy activities other than financial management",
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "3 other companies registered at this address"
+        ],
+        "others_at_address": 3
+      }
     },
     {
       "name": "JM CONSTRUCTION PS LIMITED",
@@ -67,7 +74,12 @@
       "matched_places": [
         "Hale"
       ],
-      "business_description": "Development of building projects; Construction of commercial buildings; Construction of domestic buildings"
+      "business_description": "Development of building projects; Construction of commercial buildings; Construction of domestic buildings",
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 2
+      }
     }
   ]
 }

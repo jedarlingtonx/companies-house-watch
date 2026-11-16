@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-16T13:37:41.020893+00:00",
+  "searched_places": [
+    "Northwich",
+    "Alderley Edge",
+    "Wilmslow",
+    "Prestbury",
+    "Knutsford",
+    "Poynton",
+    "Bollington",
+    "Handforth",
+    "Mobberley",
+    "Macclesfield",
+    "Disley",
+    "Tarporley",
+    "Chester",
+    "Tarvin",
+    "Tattenhall",
+    "Farndon",
+    "Malpas",
+    "Frodsham",
+    "Nantwich",
+    "Holmes Chapel",
+    "Sandbach",
+    "Hartford",
+    "Sandiway",
+    "Cuddington",
+    "Delamere",
+    "Davenham",
+    "Hale",
+    "Bowdon",
+    "Bramhall"
+  ],
+  "failed_places": {},
+  "count": 2,
+  "companies": [
+    {
+      "name": "CUBE DROP LTD",
+      "number": "17581539",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-15",
+      "address": "39-41 Princess Street, Knutsford, WA16 6BW, England",
+      "address_line_1": "39-41 Princess Street",
+      "premises": null,
+      "postcode": "WA16 6BW",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "52103"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17581539",
+      "matched_places": [
+        "Knutsford"
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 2
+      },
+      "business_description": "Operation of warehousing and storage facilities for land transport activities",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=39-41+Princess+Street%2C+Knutsford%2C+WA16+6BW%2C+England"
+    },
+    {
+      "name": "GREENROOM HOUSEPLANTS LIMITED",
+      "number": "17581643",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-15",
+      "address": "12 Hulme Square, Macclesfield, SK11 7SG, Cheshire, United Kingdom",
+      "address_line_1": "12 Hulme Square",
+      "premises": null,
+      "postcode": "SK11 7SG",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "47760"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17581643",
+      "matched_places": [
+        "Macclesfield"
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "3 other companies registered at this address"
+        ],
+        "others_at_address": 3
+      },
+      "business_description": "Retail sale of flowers, plants, seeds, fertilizers, pet animals and pet food in specialised stores",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=12+Hulme+Square%2C+Macclesfield%2C+SK11+7SG%2C+Cheshire%2C+United+Kingdom"
+    }
+  ]
+}
