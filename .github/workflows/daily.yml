@@ -1,7 +1,6 @@
 name: Daily Companies House check
 on:
-  schedule:
-    - cron: "17 5 * * *"
+  # No daily timer: the scheduled Claude task starts this workflow each morning.
   workflow_dispatch:
 permissions:
   contents: write
