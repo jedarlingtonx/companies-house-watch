@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-16",
-  "generated_at": "2026-11-17T07:58:52.445739+00:00",
+  "date": "2026-11-17",
+  "generated_at": "2026-11-18T07:59:17.697315+00:00",
   "searched_places": [
     "Northwich",
     "Alderley Edge",
@@ -33,24 +33,332 @@
     "Bramhall"
   ],
   "failed_places": {},
-  "count": 31,
+  "count": 26,
   "companies": [
     {
-      "name": "38-40 CLARENDON ROAD RMC LTD",
-      "number": "17583337",
-      "type": "private-limited-guarant-nsc",
+      "name": "1617 ESTATE LTD",
+      "number": "17585284",
+      "type": "ltd",
       "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "First Floor, 440 Wilmslow Road, Manchester, M20 3BW, United Kingdom",
-      "address_line_1": "First Floor",
+      "incorporated": "2026-11-17",
+      "address": "Davenport Green Hall Shay Lane, Hale Barns, Altrincham, Cheshire, WA15 8UD, England",
+      "address_line_1": "Davenport Green Hall Shay Lane",
       "premises": null,
-      "postcode": "M20 3BW",
+      "postcode": "WA15 8UD",
       "care_of": null,
       "po_box": null,
       "sic_codes": [
-        "68320"
+        "68209"
       ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17583337",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17585284",
+      "matched_places": [
+        "Hale"
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "3 other companies registered at this address"
+        ],
+        "others_at_address": 3
+      },
+      "business_description": "Other letting and operating of own or leased real estate",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=Davenport+Green+Hall+Shay+Lane%2C+Hale+Barns%2C+Altrincham%2C+Cheshire%2C+WA15+8UD%2C+England"
+    },
+    {
+      "name": "APX EDUCATION LTD",
+      "number": "17586540",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-17",
+      "address": "Unit 3, Colour Me House, Lodge Road, Sandbach, CW11 3HD, United Kingdom",
+      "address_line_1": "Unit 3, Colour Me House",
+      "premises": null,
+      "postcode": "CW11 3HD",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "85590"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17586540",
+      "matched_places": [
+        "Sandbach"
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 0
+      },
+      "business_description": "Other education n.e.c.",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=Unit+3%2C+Colour+Me+House%2C+Lodge+Road%2C+Sandbach%2C+CW11+3HD%2C+United+Kingdom"
+    },
+    {
+      "name": "BIBERA LTD",
+      "number": "17587429",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-17",
+      "address": "62 Chamberlain Drive, Wilmslow, SK9 2SN, England",
+      "address_line_1": "62 Chamberlain Drive",
+      "premises": null,
+      "postcode": "SK9 2SN",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "56290",
+        "82990"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17587429",
+      "matched_places": [
+        "Wilmslow"
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 1
+      },
+      "business_description": "Other food services; Other business support service activities n.e.c.",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=62+Chamberlain+Drive%2C+Wilmslow%2C+SK9+2SN%2C+England"
+    },
+    {
+      "name": "BORDER COUNTIES CONSTRUCTION LIMITED",
+      "number": "17587309",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-17",
+      "address": "4 Llyndir View Chester Road, Rossett, Wrexham, LL12 0DW, Wales",
+      "address_line_1": "4 Llyndir View Chester Road",
+      "premises": null,
+      "postcode": "LL12 0DW",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "41201"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17587309",
+      "matched_places": [
+        "Chester"
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 0
+      },
+      "business_description": "Construction of commercial buildings",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=4+Llyndir+View+Chester+Road%2C+Rossett%2C+Wrexham%2C+LL12+0DW%2C+Wales"
+    },
+    {
+      "name": "BRIT ROOFING AND BUILDING SERVICES LTD",
+      "number": "17586412",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-17",
+      "address": "8a Chester Road, Effingham, Leatherhead, KT24 5SQ, England",
+      "address_line_1": "8a Chester Road",
+      "premises": null,
+      "postcode": "KT24 5SQ",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "43910",
+        "43999"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17586412",
+      "matched_places": [
+        "Chester"
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 0
+      },
+      "business_description": "Roofing activities; Other specialised construction activities n.e.c.",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=8a+Chester+Road%2C+Effingham%2C+Leatherhead%2C+KT24+5SQ%2C+England"
+    },
+    {
+      "name": "CAESAR-LEO PRIVATE LTD",
+      "number": "17587134",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-17",
+      "address": "9 Liverpool Street, Northwich, CW9 7DG, England",
+      "address_line_1": "9 Liverpool Street",
+      "premises": null,
+      "postcode": "CW9 7DG",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "49410"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17587134",
+      "matched_places": [
+        "Northwich"
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 0
+      },
+      "business_description": "Freight transport by road",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=9+Liverpool+Street%2C+Northwich%2C+CW9+7DG%2C+England"
+    },
+    {
+      "name": "CAFE ON THE GREEN WILMSLOW LTD",
+      "number": "17585941",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-17",
+      "address": "12 Twinnies Road, Wilmslow, SK9 4BS, England",
+      "address_line_1": "12 Twinnies Road",
+      "premises": null,
+      "postcode": "SK9 4BS",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "56102"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17585941",
+      "matched_places": [
+        "Wilmslow"
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 1
+      },
+      "business_description": "Unlicensed restaurants and cafes",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=12+Twinnies+Road%2C+Wilmslow%2C+SK9+4BS%2C+England"
+    },
+    {
+      "name": "CARIAD BACH JEWELLERY LIMITED",
+      "number": "17585976",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-17",
+      "address": "26 Chester Street, Wrexham, LL13 8BG, Wales",
+      "address_line_1": "26 Chester Street",
+      "premises": null,
+      "postcode": "LL13 8BG",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "47770"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17585976",
+      "matched_places": [
+        "Chester"
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "22 other companies registered at this address"
+        ],
+        "others_at_address": 22
+      },
+      "business_description": "Retail sale of watches and jewellery in specialised stores",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=26+Chester+Street%2C+Wrexham%2C+LL13+8BG%2C+Wales"
+    },
+    {
+      "name": "CHESHIRE IT LIMITED",
+      "number": "17585780",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-17",
+      "address": "28 Strawberry Lane, Wilmslow, SK9 6AQ, Cheshire, England",
+      "address_line_1": "28 Strawberry Lane",
+      "premises": null,
+      "postcode": "SK9 6AQ",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "74909"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17585780",
+      "matched_places": [
+        "Wilmslow"
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "4 other companies registered at this address"
+        ],
+        "others_at_address": 4
+      },
+      "business_description": "Other professional, scientific and technical activities n.e.c.",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=28+Strawberry+Lane%2C+Wilmslow%2C+SK9+6AQ%2C+Cheshire%2C+England"
+    },
+    {
+      "name": "DOTTIE CONSULTING LTD",
+      "number": "17585653",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-17",
+      "address": "200 Manchester Road, Northwich, CW9 7NN, United Kingdom",
+      "address_line_1": "200 Manchester Road",
+      "premises": null,
+      "postcode": "CW9 7NN",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "68320",
+        "70229"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17585653",
+      "matched_places": [
+        "Northwich"
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 2
+      },
+      "business_description": "Management of real estate on a fee or contract basis; Management consultancy activities other than financial management",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=200+Manchester+Road%2C+Northwich%2C+CW9+7NN%2C+United+Kingdom"
+    },
+    {
+      "name": "DOUBLE LUCKY HOUSE TAKEAWAY LTD",
+      "number": "17586136",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-17",
+      "address": "471 Old Chester Road, Birkenhead, CH42 4NG, United Kingdom",
+      "address_line_1": "471 Old Chester Road",
+      "premises": null,
+      "postcode": "CH42 4NG",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "56103"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17586136",
+      "matched_places": [
+        "Chester"
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "6 other companies registered at this address"
+        ],
+        "others_at_address": 6
+      },
+      "business_description": "Take-away food shops and mobile food stands",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=471+Old+Chester+Road%2C+Birkenhead%2C+CH42+4NG%2C+United+Kingdom"
+    },
+    {
+      "name": "EMSLEY FOOD-TECH SOLUTIONS LTD",
+      "number": "17585875",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-17",
+      "address": "Flat 4, 630 Wilmslow Road, Manchester, M20 3QX, United Kingdom",
+      "address_line_1": "Flat 4, 630 Wilmslow Road",
+      "premises": null,
+      "postcode": "M20 3QX",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "74909"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17585875",
       "matched_places": [
         "Wilmslow"
       ],
@@ -59,56 +367,25 @@
         "reasons": [],
         "others_at_address": 0
       },
-      "business_description": "Management of real estate on a fee or contract basis",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=First+Floor%2C+440+Wilmslow+Road%2C+Manchester%2C+M20+3BW%2C+United+Kingdom"
+      "business_description": "Other professional, scientific and technical activities n.e.c.",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=Flat+4%2C+630+Wilmslow+Road%2C+Manchester%2C+M20+3QX%2C+United+Kingdom"
     },
     {
-      "name": "ACG KRATOS LIMITED",
-      "number": "17584471",
+      "name": "FAST FOOD SHOP LTD",
+      "number": "17585473",
       "type": "ltd",
       "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "31 Wellington Road, Nantwich, CW5 7ED, Cheshire, United Kingdom",
-      "address_line_1": "31 Wellington Road",
+      "incorporated": "2026-11-17",
+      "address": "15 Chester Close, Luton, LU4 9SJ, Beds, United Kingdom",
+      "address_line_1": "15 Chester Close",
       "premises": null,
-      "postcode": "CW5 7ED",
+      "postcode": "LU4 9SJ",
       "care_of": null,
       "po_box": null,
       "sic_codes": [
-        "99999"
+        "56103"
       ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17584471",
-      "matched_places": [
-        "Nantwich"
-      ],
-      "address_check": {
-        "third_party": true,
-        "reasons": [
-          "96 other companies registered at this address"
-        ],
-        "others_at_address": 96
-      },
-      "business_description": "Dormant Company",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=31+Wellington+Road%2C+Nantwich%2C+CW5+7ED%2C+Cheshire%2C+United+Kingdom"
-    },
-    {
-      "name": "AP97 LTD",
-      "number": "17582751",
-      "type": "ltd",
-      "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "6 Jacksons Place, Chester Le Street, DH3 1LF, England",
-      "address_line_1": "6 Jacksons Place",
-      "premises": null,
-      "postcode": "DH3 1LF",
-      "care_of": null,
-      "po_box": null,
-      "sic_codes": [
-        "52290",
-        "53201",
-        "53202"
-      ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17582751",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17585473",
       "matched_places": [
         "Chester"
       ],
@@ -119,280 +396,25 @@
         ],
         "others_at_address": 3
       },
-      "business_description": "Other transportation support activities; Licensed carriers; Unlicensed carrier",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=6+Jacksons+Place%2C+Chester+Le+Street%2C+DH3+1LF%2C+England"
+      "business_description": "Take-away food shops and mobile food stands",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=15+Chester+Close%2C+Luton%2C+LU4+9SJ%2C+Beds%2C+United+Kingdom"
     },
     {
-      "name": "APS STAYS LTD",
-      "number": "17583118",
+      "name": "HOOTON HAND CAR WASH LTD",
+      "number": "17586813",
       "type": "ltd",
       "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "54 Housestead Drive, Hoole, Chester, CH2 3DL, Cheshire, United Kingdom",
-      "address_line_1": "54 Housestead Drive",
+      "incorporated": "2026-11-17",
+      "address": "36 Chester Road, Childer Thornton, Ellesmere Port, CH66 1QJ, United Kingdom",
+      "address_line_1": "36 Chester Road",
       "premises": null,
-      "postcode": "CH2 3DL",
+      "postcode": "CH66 1QJ",
       "care_of": null,
       "po_box": null,
       "sic_codes": [
-        "68209",
-        "68320"
+        "45200"
       ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17583118",
-      "matched_places": [
-        "Chester"
-      ],
-      "address_check": {
-        "third_party": false,
-        "reasons": [],
-        "others_at_address": 1
-      },
-      "business_description": "Other letting and operating of own or leased real estate; Management of real estate on a fee or contract basis",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=54+Housestead+Drive%2C+Hoole%2C+Chester%2C+CH2+3DL%2C+Cheshire%2C+United+Kingdom"
-    },
-    {
-      "name": "ASK THE JEWELLER LTD",
-      "number": "17581938",
-      "type": "ltd",
-      "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "30 Brooks Drive, Hale Barns, Altrincham, WA15 8TR, England",
-      "address_line_1": "30 Brooks Drive",
-      "premises": null,
-      "postcode": "WA15 8TR",
-      "care_of": null,
-      "po_box": null,
-      "sic_codes": [
-        "71122"
-      ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17581938",
-      "matched_places": [
-        "Hale"
-      ],
-      "address_check": {
-        "third_party": false,
-        "reasons": [],
-        "others_at_address": 2
-      },
-      "business_description": "Engineering related scientific and technical consulting activities",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=30+Brooks+Drive%2C+Hale+Barns%2C+Altrincham%2C+WA15+8TR%2C+England"
-    },
-    {
-      "name": "BB EQUESTRIAN UK LTD",
-      "number": "17582182",
-      "type": "ltd",
-      "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "7 Back Crosland Terrace, Helsby, Frodsham, WA6 9LZ, England",
-      "address_line_1": "7 Back Crosland Terrace",
-      "premises": null,
-      "postcode": "WA6 9LZ",
-      "care_of": null,
-      "po_box": null,
-      "sic_codes": [
-        "01430"
-      ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17582182",
-      "matched_places": [
-        "Frodsham"
-      ],
-      "address_check": {
-        "third_party": false,
-        "reasons": [],
-        "others_at_address": 0
-      },
-      "business_description": "Raising of horses and other equines",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=7+Back+Crosland+Terrace%2C+Helsby%2C+Frodsham%2C+WA6+9LZ%2C+England"
-    },
-    {
-      "name": "BRIDGE END LEEK LIMITED",
-      "number": "17583562",
-      "type": "ltd",
-      "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "Bridge End Garage, Macclesfield Road, Leek, ST13 8LD, Staffordshire, England",
-      "address_line_1": "Bridge End Garage",
-      "premises": null,
-      "postcode": "ST13 8LD",
-      "care_of": null,
-      "po_box": null,
-      "sic_codes": [
-        "47300"
-      ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17583562",
-      "matched_places": [
-        "Macclesfield"
-      ],
-      "address_check": {
-        "third_party": false,
-        "reasons": [],
-        "others_at_address": 1
-      },
-      "business_description": "Retail sale of automotive fuel in specialised stores",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=Bridge+End+Garage%2C+Macclesfield+Road%2C+Leek%2C+ST13+8LD%2C+Staffordshire%2C+England"
-    },
-    {
-      "name": "CASTLE 86 LIMITED",
-      "number": "17583677",
-      "type": "ltd",
-      "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "179 Park Lane, Poynton, Stockport, SK12 1RH, England",
-      "address_line_1": "179 Park Lane",
-      "premises": null,
-      "postcode": "SK12 1RH",
-      "care_of": null,
-      "po_box": null,
-      "sic_codes": [
-        "68209"
-      ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17583677",
-      "matched_places": [
-        "Poynton"
-      ],
-      "address_check": {
-        "third_party": true,
-        "reasons": [
-          "92 other companies registered at this address"
-        ],
-        "others_at_address": 92
-      },
-      "business_description": "Other letting and operating of own or leased real estate",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=179+Park+Lane%2C+Poynton%2C+Stockport%2C+SK12+1RH%2C+England"
-    },
-    {
-      "name": "CHESS GROUP 2 LIMITED",
-      "number": "17584191",
-      "type": "ltd",
-      "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "11s1 Mereside Alderley Park, Macclesfield, SK10 4TG, Cheshire, United Kingdom",
-      "address_line_1": "11s1 Mereside Alderley Park",
-      "premises": null,
-      "postcode": "SK10 4TG",
-      "care_of": null,
-      "po_box": null,
-      "sic_codes": [
-        "64209"
-      ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17584191",
-      "matched_places": [
-        "Macclesfield"
-      ],
-      "address_check": {
-        "third_party": true,
-        "reasons": [
-          "7 other companies registered at this address"
-        ],
-        "others_at_address": 7
-      },
-      "business_description": "Activities of other holding companies n.e.c.",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=11s1+Mereside+Alderley+Park%2C+Macclesfield%2C+SK10+4TG%2C+Cheshire%2C+United+Kingdom"
-    },
-    {
-      "name": "DABBERS DINER LTD",
-      "number": "17582804",
-      "type": "ltd",
-      "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "1st Floor Unit 10, Alvaston Business Park, Middlewich Road, Nantwich, CW5 6PF, United Kingdom",
-      "address_line_1": "1st Floor Unit 10, Alvaston Business Park",
-      "premises": null,
-      "postcode": "CW5 6PF",
-      "care_of": null,
-      "po_box": null,
-      "sic_codes": [
-        "56210"
-      ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17582804",
-      "matched_places": [
-        "Nantwich"
-      ],
-      "address_check": {
-        "third_party": true,
-        "reasons": [
-          "floor",
-          "unit"
-        ],
-        "others_at_address": 0
-      },
-      "business_description": "Event catering activities",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=1st+Floor+Unit+10%2C+Alvaston+Business+Park%2C+Middlewich+Road%2C+Nantwich%2C+CW5+6PF%2C+United+Kingdom"
-    },
-    {
-      "name": "EXOTIC LOUNGE FRODSAM LTD",
-      "number": "17583709",
-      "type": "ltd",
-      "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "3 High Street, Frodsham, WA6 7AH, Cheshire, England",
-      "address_line_1": "3 High Street",
-      "premises": null,
-      "postcode": "WA6 7AH",
-      "care_of": null,
-      "po_box": null,
-      "sic_codes": [
-        "56101"
-      ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17583709",
-      "matched_places": [
-        "Frodsham"
-      ],
-      "address_check": {
-        "third_party": false,
-        "reasons": [],
-        "others_at_address": 1
-      },
-      "business_description": "Licensed restaurants",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=3+High+Street%2C+Frodsham%2C+WA6+7AH%2C+Cheshire%2C+England"
-    },
-    {
-      "name": "FRANKEITH INVESTMENTS LTD",
-      "number": "17584638",
-      "type": "ltd",
-      "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "Bramhall House 14 Ack Lane East, Bramhall, Stockport, SK7 2BY, England",
-      "address_line_1": "Bramhall House 14 Ack Lane East",
-      "premises": null,
-      "postcode": "SK7 2BY",
-      "care_of": null,
-      "po_box": null,
-      "sic_codes": [
-        "68100",
-        "68209"
-      ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17584638",
-      "matched_places": [
-        "Bramhall"
-      ],
-      "address_check": {
-        "third_party": true,
-        "reasons": [
-          "78 other companies registered at this address"
-        ],
-        "others_at_address": 78
-      },
-      "business_description": "Buying and selling of own real estate; Other letting and operating of own or leased real estate",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=Bramhall+House+14+Ack+Lane+East%2C+Bramhall%2C+Stockport%2C+SK7+2BY%2C+England"
-    },
-    {
-      "name": "FUNCTIONAL HYBRID FITNESS C.I.C.",
-      "number": "17583043",
-      "type": "private-limited-guarant-nsc",
-      "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "143 Front Street, Chester Le Street, DH3 3AU, England",
-      "address_line_1": "143 Front Street",
-      "premises": null,
-      "postcode": "DH3 3AU",
-      "care_of": null,
-      "po_box": null,
-      "sic_codes": [
-        "84120",
-        "93130"
-      ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17583043",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17586813",
       "matched_places": [
         "Chester"
       ],
@@ -403,53 +425,110 @@
         ],
         "others_at_address": 4
       },
-      "business_description": "Regulation of health care, education, cultural and other social services, not incl. social security; Fitness facilities",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=143+Front+Street%2C+Chester+Le+Street%2C+DH3+3AU%2C+England"
+      "business_description": "Maintenance and repair of motor vehicles",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=36+Chester+Road%2C+Childer+Thornton%2C+Ellesmere+Port%2C+CH66+1QJ%2C+United+Kingdom"
     },
     {
-      "name": "HOUNDER LIMITED",
-      "number": "17582096",
+      "name": "ILUVO LTD",
+      "number": "17586742",
       "type": "ltd",
       "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "Apartment 7 The Whitehouse 105 Spath Lane, Handforth, Wilmslow, SK9 3BD, England",
-      "address_line_1": "Apartment 7 The Whitehouse 105 Spath Lane",
+      "incorporated": "2026-11-17",
+      "address": "Owl Barn London Road, Adlington, Macclesfield, SK10 4NQ, England",
+      "address_line_1": "Owl Barn London Road",
       "premises": null,
-      "postcode": "SK9 3BD",
+      "postcode": "SK10 4NQ",
       "care_of": null,
       "po_box": null,
       "sic_codes": [
-        "62020"
+        "43210",
+        "62012",
+        "71122",
+        "74901"
       ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17582096",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17586742",
       "matched_places": [
-        "Wilmslow",
-        "Handforth"
+        "Macclesfield"
       ],
       "address_check": {
         "third_party": false,
         "reasons": [],
         "others_at_address": 1
       },
-      "business_description": "Information technology consultancy activities",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=Apartment+7+The+Whitehouse+105+Spath+Lane%2C+Handforth%2C+Wilmslow%2C+SK9+3BD%2C+England"
+      "business_description": "Electrical installation; Business and domestic software development; Engineering related scientific and technical consulting activities; Environmental consulting activities",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=Owl+Barn+London+Road%2C+Adlington%2C+Macclesfield%2C+SK10+4NQ%2C+England"
     },
     {
-      "name": "ISTANBUL HAIRCUT EXPRESS LTD",
-      "number": "17583477",
+      "name": "JP UTILITIES LTD",
+      "number": "17585420",
       "type": "ltd",
       "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "176 Front Street, Chester Le Street, DH3 3AZ, England",
-      "address_line_1": "176 Front Street",
+      "incorporated": "2026-11-17",
+      "address": "51 Hodge Lane, Hartford, Northwich, CW8 3AG, England",
+      "address_line_1": "51 Hodge Lane",
       "premises": null,
-      "postcode": "DH3 3AZ",
+      "postcode": "CW8 3AG",
       "care_of": null,
       "po_box": null,
       "sic_codes": [
-        "96020"
+        "42210"
       ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17583477",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17585420",
+      "matched_places": [
+        "Northwich",
+        "Hartford"
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 1
+      },
+      "business_description": "Construction of utility projects for fluids",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=51+Hodge+Lane%2C+Hartford%2C+Northwich%2C+CW8+3AG%2C+England"
+    },
+    {
+      "name": "K AND M BLISS CARE LIMITED",
+      "number": "17587164",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-17",
+      "address": "48 Ryle Street, Macclesfield, SK11 8AX, England",
+      "address_line_1": "48 Ryle Street",
+      "premises": null,
+      "postcode": "SK11 8AX",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "70229"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17587164",
+      "matched_places": [
+        "Macclesfield"
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 0
+      },
+      "business_description": "Management consultancy activities other than financial management",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=48+Ryle+Street%2C+Macclesfield%2C+SK11+8AX%2C+England"
+    },
+    {
+      "name": "LC BAKEHOUSE LTD",
+      "number": "17585288",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-17",
+      "address": "50 Burnlands Way, Pelton Fell, Chester Le Street, DH2 2FQ, England",
+      "address_line_1": "50 Burnlands Way",
+      "premises": null,
+      "postcode": "DH2 2FQ",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "56103"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17585288",
       "matched_places": [
         "Chester"
       ],
@@ -458,467 +537,231 @@
         "reasons": [],
         "others_at_address": 0
       },
-      "business_description": "Hairdressing and other beauty treatment",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=176+Front+Street%2C+Chester+Le+Street%2C+DH3+3AZ%2C+England"
+      "business_description": "Take-away food shops and mobile food stands",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=50+Burnlands+Way%2C+Pelton+Fell%2C+Chester+Le+Street%2C+DH2+2FQ%2C+England"
     },
     {
-      "name": "KEM GROUP AGRI LTD",
-      "number": "17584409",
+      "name": "M78 HOLDINGS LIMITED",
+      "number": "17585106",
       "type": "ltd",
       "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "Butterlands Farm, Wincle, Macclesfield, SK11 0QL, England",
-      "address_line_1": "Butterlands Farm",
+      "incorporated": "2026-11-17",
+      "address": "65 Ack Lane East, Bramhall, Stockport, SK7 2BE, England",
+      "address_line_1": "65 Ack Lane East",
       "premises": null,
-      "postcode": "SK11 0QL",
+      "postcode": "SK7 2BE",
       "care_of": null,
       "po_box": null,
       "sic_codes": [
-        "01500"
+        "74203"
       ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17584409",
-      "matched_places": [
-        "Macclesfield"
-      ],
-      "address_check": {
-        "third_party": true,
-        "reasons": [
-          "5 other companies registered at this address"
-        ],
-        "others_at_address": 5
-      },
-      "business_description": "Mixed farming",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=Butterlands+Farm%2C+Wincle%2C+Macclesfield%2C+SK11+0QL%2C+England"
-    },
-    {
-      "name": "KEM GROUP MEDIA LTD",
-      "number": "17584420",
-      "type": "ltd",
-      "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "Butterlands Farm, Wincle, Macclesfield, SK11 0QL, England",
-      "address_line_1": "Butterlands Farm",
-      "premises": null,
-      "postcode": "SK11 0QL",
-      "care_of": null,
-      "po_box": null,
-      "sic_codes": [
-        "59113",
-        "70210",
-        "90010",
-        "90020"
-      ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17584420",
-      "matched_places": [
-        "Macclesfield"
-      ],
-      "address_check": {
-        "third_party": true,
-        "reasons": [
-          "5 other companies registered at this address"
-        ],
-        "others_at_address": 5
-      },
-      "business_description": "Television programme production activities; Public relations and communications activities; Performing arts; Support activities to performing arts",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=Butterlands+Farm%2C+Wincle%2C+Macclesfield%2C+SK11+0QL%2C+England"
-    },
-    {
-      "name": "KOB TRUSTEES LTD",
-      "number": "17584128",
-      "type": "ltd",
-      "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "1 Church Mews, Churchill Way, Macclesfield, SK11 6AY, Cheshire, United Kingdom",
-      "address_line_1": "1 Church Mews",
-      "premises": null,
-      "postcode": "SK11 6AY",
-      "care_of": null,
-      "po_box": null,
-      "sic_codes": [
-        "74909"
-      ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17584128",
-      "matched_places": [
-        "Macclesfield"
-      ],
-      "address_check": {
-        "third_party": true,
-        "reasons": [
-          "57 other companies registered at this address"
-        ],
-        "others_at_address": 57
-      },
-      "business_description": "Other professional, scientific and technical activities n.e.c.",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=1+Church+Mews%2C+Churchill+Way%2C+Macclesfield%2C+SK11+6AY%2C+Cheshire%2C+United+Kingdom"
-    },
-    {
-      "name": "LUNA NOVA ELECTRICAL LIMITED",
-      "number": "17584597",
-      "type": "ltd",
-      "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "Bramhall House 14 Ack Lane East, Bramhall, Stockport, SK7 2BY, England",
-      "address_line_1": "Bramhall House 14 Ack Lane East",
-      "premises": null,
-      "postcode": "SK7 2BY",
-      "care_of": null,
-      "po_box": null,
-      "sic_codes": [
-        "71129"
-      ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17584597",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17585106",
       "matched_places": [
         "Bramhall"
       ],
       "address_check": {
-        "third_party": true,
-        "reasons": [
-          "78 other companies registered at this address"
-        ],
-        "others_at_address": 78
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 0
       },
-      "business_description": "Other engineering activities",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=Bramhall+House+14+Ack+Lane+East%2C+Bramhall%2C+Stockport%2C+SK7+2BY%2C+England"
+      "business_description": "Film processing",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=65+Ack+Lane+East%2C+Bramhall%2C+Stockport%2C+SK7+2BE%2C+England"
     },
     {
-      "name": "NEW CAPITAL LTD",
-      "number": "17583773",
+      "name": "NORTHLANE COMMERCE LTD",
+      "number": "17586459",
       "type": "ltd",
       "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "7a Jordangate, Macclesfield, SK10 1EE, United Kingdom",
-      "address_line_1": "7a Jordangate",
+      "incorporated": "2026-11-17",
+      "address": "Flat 2 54 Witton Street, Northwich, CW9 5AG, England",
+      "address_line_1": "Flat 2 54 Witton Street",
       "premises": null,
-      "postcode": "SK10 1EE",
+      "postcode": "CW9 5AG",
       "care_of": null,
       "po_box": null,
       "sic_codes": [
-        "68201"
+        "47910"
       ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17583773",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17586459",
+      "matched_places": [
+        "Northwich"
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 0
+      },
+      "business_description": "Retail sale via mail order houses or via Internet",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=Flat+2+54+Witton+Street%2C+Northwich%2C+CW9+5AG%2C+England"
+    },
+    {
+      "name": "NORTHWOOD LAND AND PLANNING PARTNERS LTD",
+      "number": "17586852",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-17",
+      "address": "4 Chapel Road, Alderley Edge, SK9 7DU, England",
+      "address_line_1": "4 Chapel Road",
+      "premises": null,
+      "postcode": "SK9 7DU",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "70229"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17586852",
+      "matched_places": [
+        "Alderley Edge"
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "3 other companies registered at this address"
+        ],
+        "others_at_address": 3
+      },
+      "business_description": "Management consultancy activities other than financial management",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=4+Chapel+Road%2C+Alderley+Edge%2C+SK9+7DU%2C+England"
+    },
+    {
+      "name": "RE:KNM LTD",
+      "number": "17587175",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-17",
+      "address": "7 Cuddington Crescent, Stockport, SK3 8LX, United Kingdom",
+      "address_line_1": "7 Cuddington Crescent",
+      "premises": null,
+      "postcode": "SK3 8LX",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "56103"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17587175",
+      "matched_places": [
+        "Cuddington"
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "8 other companies registered at this address"
+        ],
+        "others_at_address": 8
+      },
+      "business_description": "Take-away food shops and mobile food stands",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=7+Cuddington+Crescent%2C+Stockport%2C+SK3+8LX%2C+United+Kingdom"
+    },
+    {
+      "name": "SANTANA GRILL LTD",
+      "number": "17586936",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-17",
+      "address": "55 Lyndhurst Avenue, Chester Le Street, DH3 4AT, England",
+      "address_line_1": "55 Lyndhurst Avenue",
+      "premises": null,
+      "postcode": "DH3 4AT",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "56103"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17586936",
+      "matched_places": [
+        "Chester"
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "9 other companies registered at this address"
+        ],
+        "others_at_address": 9
+      },
+      "business_description": "Take-away food shops and mobile food stands",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=55+Lyndhurst+Avenue%2C+Chester+Le+Street%2C+DH3+4AT%2C+England"
+    },
+    {
+      "name": "STATUSQUOTEEY LTD",
+      "number": "17586003",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-17",
+      "address": "27 Fitzwilliam Avenue, Macclesfield, SK11 0EJ, United Kingdom",
+      "address_line_1": "27 Fitzwilliam Avenue",
+      "premises": null,
+      "postcode": "SK11 0EJ",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "47910"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17586003",
       "matched_places": [
         "Macclesfield"
       ],
       "address_check": {
-        "third_party": true,
-        "reasons": [
-          "6 other companies registered at this address"
-        ],
-        "others_at_address": 6
-      },
-      "business_description": "Renting and operating of Housing Association real estate",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=7a+Jordangate%2C+Macclesfield%2C+SK10+1EE%2C+United+Kingdom"
-    },
-    {
-      "name": "NYXE LIMITED",
-      "number": "17584269",
-      "type": "ltd",
-      "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "Chester House, 81-83 Fulham High Street, London, SW6 3JW, England",
-      "address_line_1": "Chester House, 81-83 Fulham High Street",
-      "premises": null,
-      "postcode": "SW6 3JW",
-      "care_of": null,
-      "po_box": null,
-      "sic_codes": [
-        "47910"
-      ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17584269",
-      "matched_places": [
-        "Chester"
-      ],
-      "address_check": {
         "third_party": false,
         "reasons": [],
         "others_at_address": 1
       },
       "business_description": "Retail sale via mail order houses or via Internet",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=Chester+House%2C+81-83+Fulham+High+Street%2C+London%2C+SW6+3JW%2C+England"
+      "map_url": "https://www.google.com/maps/search/?api=1&query=27+Fitzwilliam+Avenue%2C+Macclesfield%2C+SK11+0EJ%2C+United+Kingdom"
     },
     {
-      "name": "PRIDVERSE LIMITED",
-      "number": "17582851",
+      "name": "TEAM UKOSC LIMITED",
+      "number": "17587276",
       "type": "private-limited-guarant-nsc",
       "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "20 Lorne Street, Chester, CH1 4AE, United Kingdom",
-      "address_line_1": "20 Lorne Street",
+      "incorporated": "2026-11-17",
+      "address": "33 Wildings Grove, Davenham, Northwich, CW9 8SR, England",
+      "address_line_1": "33 Wildings Grove",
       "premises": null,
-      "postcode": "CH1 4AE",
+      "postcode": "CW9 8SR",
       "care_of": null,
       "po_box": null,
       "sic_codes": [
-        "74909"
+        "82301"
       ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17582851",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17587276",
       "matched_places": [
-        "Chester"
+        "Northwich",
+        "Davenham"
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 2
+      },
+      "business_description": "Activities of exhibition and fair organisers",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=33+Wildings+Grove%2C+Davenham%2C+Northwich%2C+CW9+8SR%2C+England"
+    },
+    {
+      "name": "THOMAS GEORGE HUDSON LTD",
+      "number": "17585867",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-17",
+      "address": "8 Charnwood Close, Macclesfield, SK10 3NR, England",
+      "address_line_1": "8 Charnwood Close",
+      "premises": null,
+      "postcode": "SK10 3NR",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "64991"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17585867",
+      "matched_places": [
+        "Macclesfield"
       ],
       "address_check": {
         "third_party": false,
         "reasons": [],
         "others_at_address": 0
       },
-      "business_description": "Other professional, scientific and technical activities n.e.c.",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=20+Lorne+Street%2C+Chester%2C+CH1+4AE%2C+United+Kingdom"
-    },
-    {
-      "name": "PUNJABI TAWA HOUSE LIMITED",
-      "number": "17583037",
-      "type": "ltd",
-      "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "3 Chester Close, Willenhall, WV13 1JF, England",
-      "address_line_1": "3 Chester Close",
-      "premises": null,
-      "postcode": "WV13 1JF",
-      "care_of": null,
-      "po_box": null,
-      "sic_codes": [
-        "56103"
-      ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17583037",
-      "matched_places": [
-        "Chester"
-      ],
-      "address_check": {
-        "third_party": false,
-        "reasons": [],
-        "others_at_address": 1
-      },
-      "business_description": "Take-away food shops and mobile food stands",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=3+Chester+Close%2C+Willenhall%2C+WV13+1JF%2C+England"
-    },
-    {
-      "name": "SAINT BERLYN LONDON LIMITED",
-      "number": "17584531",
-      "type": "ltd",
-      "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "Care Of Nw Accounts Limited 17 Leafield Road, Disley, Stockport, SK12 2JF, Cheshire, United Kingdom",
-      "address_line_1": "Care Of Nw Accounts Limited 17 Leafield Road",
-      "premises": null,
-      "postcode": "SK12 2JF",
-      "care_of": null,
-      "po_box": null,
-      "sic_codes": [
-        "47710"
-      ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17584531",
-      "matched_places": [
-        "Disley"
-      ],
-      "address_check": {
-        "third_party": true,
-        "reasons": [
-          "c/o (care of) address",
-          "77 other companies registered at this address"
-        ],
-        "others_at_address": 77
-      },
-      "business_description": "Retail sale of clothing in specialised stores",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=Care+Of+Nw+Accounts+Limited+17+Leafield+Road%2C+Disley%2C+Stockport%2C+SK12+2JF%2C+Cheshire%2C+United+Kingdom"
-    },
-    {
-      "name": "SAMA ALAARAB LTD",
-      "number": "17582146",
-      "type": "ltd",
-      "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "Office 4 First Floor, 49-51 Wilmslow Road, Manchester, M14 5TB, United Kingdom",
-      "address_line_1": "Office 4 First Floor",
-      "premises": null,
-      "postcode": "M14 5TB",
-      "care_of": null,
-      "po_box": null,
-      "sic_codes": [
-        "52290",
-        "68209",
-        "79901",
-        "98000"
-      ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17582146",
-      "matched_places": [
-        "Wilmslow"
-      ],
-      "address_check": {
-        "third_party": true,
-        "reasons": [
-          "floor",
-          "office"
-        ],
-        "others_at_address": 0
-      },
-      "business_description": "Other transportation support activities; Other letting and operating of own or leased real estate; Activities of tourist guides; Residents property management",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=Office+4+First+Floor%2C+49-51+Wilmslow+Road%2C+Manchester%2C+M14+5TB%2C+United+Kingdom"
-    },
-    {
-      "name": "SAVEGOODFOOD LIMITED",
-      "number": "17581882",
-      "type": "ltd",
-      "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "13 Longdale Drive, Chester, CH1 5AT, United Kingdom",
-      "address_line_1": "13 Longdale Drive",
-      "premises": null,
-      "postcode": "CH1 5AT",
-      "care_of": null,
-      "po_box": null,
-      "sic_codes": [
-        "62090"
-      ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17581882",
-      "matched_places": [
-        "Chester"
-      ],
-      "address_check": {
-        "third_party": false,
-        "reasons": [],
-        "others_at_address": 1
-      },
-      "business_description": "Other information technology service activities",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=13+Longdale+Drive%2C+Chester%2C+CH1+5AT%2C+United+Kingdom"
-    },
-    {
-      "name": "SPARKING & SHINE LTD",
-      "number": "SC909210",
-      "type": "ltd",
-      "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "15 Chester Square, Mayfield, Dalkeith, EH22 5DN, Scotland",
-      "address_line_1": "15 Chester Square",
-      "premises": null,
-      "postcode": "EH22 5DN",
-      "care_of": null,
-      "po_box": null,
-      "sic_codes": [
-        "81299"
-      ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/SC909210",
-      "matched_places": [
-        "Chester"
-      ],
-      "address_check": {
-        "third_party": false,
-        "reasons": [],
-        "others_at_address": 0
-      },
-      "business_description": "Other cleaning services",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=15+Chester+Square%2C+Mayfield%2C+Dalkeith%2C+EH22+5DN%2C+Scotland"
-    },
-    {
-      "name": "THE WILDER COLLECTION LTD",
-      "number": "17583488",
-      "type": "ltd",
-      "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "Hlb House, 68 High Street, Tarporley, CW6 0AT, United Kingdom",
-      "address_line_1": "Hlb House, 68 High Street",
-      "premises": null,
-      "postcode": "CW6 0AT",
-      "care_of": null,
-      "po_box": null,
-      "sic_codes": [
-        "47910"
-      ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17583488",
-      "matched_places": [
-        "Tarporley"
-      ],
-      "address_check": {
-        "third_party": true,
-        "reasons": [
-          "59 other companies registered at this address"
-        ],
-        "others_at_address": 59
-      },
-      "business_description": "Retail sale via mail order houses or via Internet",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=Hlb+House%2C+68+High+Street%2C+Tarporley%2C+CW6+0AT%2C+United+Kingdom"
-    },
-    {
-      "name": "TRIBAL PUBS LTD",
-      "number": "17582986",
-      "type": "ltd",
-      "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "Cms Pub Accountancy 27 Chester Road, Castle Bromwich, Birmingham, B36 9DA, England",
-      "address_line_1": "Cms Pub Accountancy 27 Chester Road",
-      "premises": null,
-      "postcode": "B36 9DA",
-      "care_of": null,
-      "po_box": null,
-      "sic_codes": [
-        "56302"
-      ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17582986",
-      "matched_places": [
-        "Chester"
-      ],
-      "address_check": {
-        "third_party": true,
-        "reasons": [
-          "address mentions accountancy",
-          "18 other companies registered at this address"
-        ],
-        "others_at_address": 18
-      },
-      "business_description": "Public houses and bars",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=Cms+Pub+Accountancy+27+Chester+Road%2C+Castle+Bromwich%2C+Birmingham%2C+B36+9DA%2C+England"
-    },
-    {
-      "name": "UPVC MEGASTORE LTD",
-      "number": "17584866",
-      "type": "ltd",
-      "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "The Guest House Moor Lane, Hapsford, Frodsham, WA6 0JY, England",
-      "address_line_1": "The Guest House Moor Lane",
-      "premises": null,
-      "postcode": "WA6 0JY",
-      "care_of": null,
-      "po_box": null,
-      "sic_codes": [
-        "47520"
-      ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17584866",
-      "matched_places": [
-        "Frodsham"
-      ],
-      "address_check": {
-        "third_party": false,
-        "reasons": [],
-        "others_at_address": 0
-      },
-      "business_description": "Retail sale of hardware, paints and glass in specialised stores",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=The+Guest+House+Moor+Lane%2C+Hapsford%2C+Frodsham%2C+WA6+0JY%2C+England"
-    },
-    {
-      "name": "YEUNG SING 155 LTD",
-      "number": "17584028",
-      "type": "ltd",
-      "status": "active",
-      "incorporated": "2026-11-16",
-      "address": "155 Old Chester Road, Bebington, Wirral, CH63 8NE, United Kingdom",
-      "address_line_1": "155 Old Chester Road",
-      "premises": null,
-      "postcode": "CH63 8NE",
-      "care_of": null,
-      "po_box": null,
-      "sic_codes": [
-        "56103"
-      ],
-      "url": "https://find-and-update.company-information.service.gov.uk/company/17584028",
-      "matched_places": [
-        "Chester"
-      ],
-      "address_check": {
-        "third_party": false,
-        "reasons": [],
-        "others_at_address": 0
-      },
-      "business_description": "Take-away food shops and mobile food stands",
-      "map_url": "https://www.google.com/maps/search/?api=1&query=155+Old+Chester+Road%2C+Bebington%2C+Wirral%2C+CH63+8NE%2C+United+Kingdom"
+      "business_description": "Security dealing on own account",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=8+Charnwood+Close%2C+Macclesfield%2C+SK10+3NR%2C+England"
     }
   ]
 }
