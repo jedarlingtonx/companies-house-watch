@@ -1,0 +1,574 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-20T07:59:20.840126+00:00",
+  "searched_places": [
+    "Northwich",
+    "Alderley Edge",
+    "Wilmslow",
+    "Prestbury",
+    "Knutsford",
+    "Poynton",
+    "Bollington",
+    "Handforth",
+    "Mobberley",
+    "Macclesfield",
+    "Disley",
+    "Tarporley",
+    "Chester",
+    "Tarvin",
+    "Tattenhall",
+    "Farndon",
+    "Malpas",
+    "Frodsham",
+    "Nantwich",
+    "Holmes Chapel",
+    "Sandbach",
+    "Hartford",
+    "Sandiway",
+    "Cuddington",
+    "Delamere",
+    "Davenham",
+    "Hale",
+    "Bowdon",
+    "Bramhall"
+  ],
+  "failed_places": {},
+  "count": 19,
+  "companies": [
+    {
+      "name": "AMBER JADE & CO LTD",
+      "number": "17590891",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-19",
+      "address": "C/O Cheshire Accounts Services Ltd Baddiley Lane Farmhouse, Baddiley Lane, Nantwich, CW5 8BP, United Kingdom",
+      "address_line_1": "C/O Cheshire Accounts Services Ltd Baddiley Lane Farmhouse",
+      "premises": null,
+      "postcode": "CW5 8BP",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "47910"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17590891",
+      "matched_places": [
+        "Nantwich"
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "c/o (care of) address",
+          "12 other companies registered at this address"
+        ],
+        "others_at_address": 12
+      },
+      "business_description": "Retail sale via mail order houses or via Internet",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=C%2FO+Cheshire+Accounts+Services+Ltd+Baddiley+Lane+Farmhouse%2C+Baddiley+Lane%2C+Nantwich%2C+CW5+8BP%2C+United+Kingdom"
+    },
+    {
+      "name": "AMBITION DELIVERED FINANCE LIMITED",
+      "number": "17591419",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-19",
+      "address": "Bramhall House 14 Ack Lane East, Bramhall, Stockport, SK7 2BY, England",
+      "address_line_1": "Bramhall House 14 Ack Lane East",
+      "premises": null,
+      "postcode": "SK7 2BY",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "70221"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17591419",
+      "matched_places": [
+        "Bramhall"
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "78 other companies registered at this address"
+        ],
+        "others_at_address": 78
+      },
+      "business_description": "Financial management",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=Bramhall+House+14+Ack+Lane+East%2C+Bramhall%2C+Stockport%2C+SK7+2BY%2C+England"
+    },
+    {
+      "name": "BONGOBEAN LIMITED",
+      "number": "17590004",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-19",
+      "address": "9 Chester Road, Poole, BH13 6DE, England",
+      "address_line_1": "9 Chester Road",
+      "premises": null,
+      "postcode": "BH13 6DE",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "62012",
+        "63120"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17590004",
+      "matched_places": [
+        "Chester"
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 0
+      },
+      "business_description": "Business and domestic software development; Web portals",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=9+Chester+Road%2C+Poole%2C+BH13+6DE%2C+England"
+    },
+    {
+      "name": "CARDIOVUE LIMITED",
+      "number": "17591606",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-19",
+      "address": "74a Chester Road, Castle Bromwich, Birmingham, B36 9BU, England",
+      "address_line_1": "74a Chester Road",
+      "premises": null,
+      "postcode": "B36 9BU",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "86900"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17591606",
+      "matched_places": [
+        "Chester"
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 2
+      },
+      "business_description": "Other human health activities",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=74a+Chester+Road%2C+Castle+Bromwich%2C+Birmingham%2C+B36+9BU%2C+England"
+    },
+    {
+      "name": "FENORA MEDICAL & CONSULTANCY LTD",
+      "number": "17591564",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-19",
+      "address": "Glasshouse Suite 2f3 Alderley Park Congleton Road, Nether Alderley, Macclesfield, SK10 4ZE, England",
+      "address_line_1": "Glasshouse Suite 2f3 Alderley Park Congleton Road",
+      "premises": null,
+      "postcode": "SK10 4ZE",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "82990"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17591564",
+      "matched_places": [
+        "Macclesfield"
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "29 other companies registered at this address",
+          "suite"
+        ],
+        "others_at_address": 29
+      },
+      "business_description": "Other business support service activities n.e.c.",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=Glasshouse+Suite+2f3+Alderley+Park+Congleton+Road%2C+Nether+Alderley%2C+Macclesfield%2C+SK10+4ZE%2C+England"
+    },
+    {
+      "name": "GESTREON HOLDINGS LTD",
+      "number": "17590345",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-19",
+      "address": "Westgrove, Toft Road, Knutsford, WA16 9ED, England",
+      "address_line_1": "Westgrove",
+      "premises": null,
+      "postcode": "WA16 9ED",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "64209"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17590345",
+      "matched_places": [
+        "Knutsford"
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 2
+      },
+      "business_description": "Activities of other holding companies n.e.c.",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=Westgrove%2C+Toft+Road%2C+Knutsford%2C+WA16+9ED%2C+England"
+    },
+    {
+      "name": "KINDER HEARTS SUPPORTED LIVING LTD",
+      "number": "17591710",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-19",
+      "address": "15 Chester Street, Coventry, CV1 4DH, England",
+      "address_line_1": "15 Chester Street",
+      "premises": null,
+      "postcode": "CV1 4DH",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "88100"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17591710",
+      "matched_places": [
+        "Chester"
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 0
+      },
+      "business_description": "Social work activities without accommodation for the elderly and disabled",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=15+Chester+Street%2C+Coventry%2C+CV1+4DH%2C+England"
+    },
+    {
+      "name": "LMAG HOLDINGS LTD",
+      "number": "17591754",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-19",
+      "address": "The Guest House Moor Lane, Hapsford, Frodsham, WA6 0JY, England",
+      "address_line_1": "The Guest House Moor Lane",
+      "premises": null,
+      "postcode": "WA6 0JY",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "68100"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17591754",
+      "matched_places": [
+        "Frodsham"
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 1
+      },
+      "business_description": "Buying and selling of own real estate",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=The+Guest+House+Moor+Lane%2C+Hapsford%2C+Frodsham%2C+WA6+0JY%2C+England"
+    },
+    {
+      "name": "NEOTRAKSTAR LTD",
+      "number": "17589875",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-19",
+      "address": "Mere Hall Lodge, Chester Road, Knutsford, WA16 0PX, Cheshire, United Kingdom",
+      "address_line_1": "Mere Hall Lodge",
+      "premises": null,
+      "postcode": "WA16 0PX",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "47910"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17589875",
+      "matched_places": [
+        "Knutsford",
+        "Chester"
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 1
+      },
+      "business_description": "Retail sale via mail order houses or via Internet",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=Mere+Hall+Lodge%2C+Chester+Road%2C+Knutsford%2C+WA16+0PX%2C+Cheshire%2C+United+Kingdom"
+    },
+    {
+      "name": "OAK CAFE LTD",
+      "number": "17590378",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-19",
+      "address": "9 Pennington Road, Hartford, Huntingdon, PE29 1QA, England",
+      "address_line_1": "9 Pennington Road",
+      "premises": null,
+      "postcode": "PE29 1QA",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "56102"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17590378",
+      "matched_places": [
+        "Hartford"
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 1
+      },
+      "business_description": "Unlicensed restaurants and cafes",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=9+Pennington+Road%2C+Hartford%2C+Huntingdon%2C+PE29+1QA%2C+England"
+    },
+    {
+      "name": "PMC PROCESS ENGINEERING LTD",
+      "number": "17590280",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-19",
+      "address": "Bollin House, Bollin Link, Wilmslow, SK9 1DP, Cheshire, United Kingdom",
+      "address_line_1": "Bollin House",
+      "premises": null,
+      "postcode": "SK9 1DP",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "62090"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17590280",
+      "matched_places": [
+        "Wilmslow"
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "39 other companies registered at this address"
+        ],
+        "others_at_address": 39
+      },
+      "business_description": "Other information technology service activities",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=Bollin+House%2C+Bollin+Link%2C+Wilmslow%2C+SK9+1DP%2C+Cheshire%2C+United+Kingdom"
+    },
+    {
+      "name": "REWIND AUTOMOTIVE LTD",
+      "number": "17589877",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-19",
+      "address": "34 Queen Street, Northwich, CW9 5JN, England",
+      "address_line_1": "34 Queen Street",
+      "premises": null,
+      "postcode": "CW9 5JN",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "47990"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17589877",
+      "matched_places": [
+        "Northwich"
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 1
+      },
+      "business_description": "Other retail sale not in stores, stalls or markets",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=34+Queen+Street%2C+Northwich%2C+CW9+5JN%2C+England"
+    },
+    {
+      "name": "REYNOLDS BROWN LTD",
+      "number": "17591651",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-19",
+      "address": "10 Reynolds Mews, Wilmslow, SK9 2NR, England",
+      "address_line_1": "10 Reynolds Mews",
+      "premises": null,
+      "postcode": "SK9 2NR",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "69201"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17591651",
+      "matched_places": [
+        "Wilmslow"
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 0
+      },
+      "business_description": "Accounting and auditing activities",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=10+Reynolds+Mews%2C+Wilmslow%2C+SK9+2NR%2C+England"
+    },
+    {
+      "name": "ROYLE BATHROOMS LIMITED",
+      "number": "17591500",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-19",
+      "address": "Carpenter Court 1 Maple Road, Bramhall, Stockport, SK7 2DH, Cheshire, United Kingdom",
+      "address_line_1": "Carpenter Court 1 Maple Road",
+      "premises": null,
+      "postcode": "SK7 2DH",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "43220"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17591500",
+      "matched_places": [
+        "Bramhall"
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "99 other companies registered at this address"
+        ],
+        "others_at_address": 99
+      },
+      "business_description": "Plumbing, heat and air-conditioning installation",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=Carpenter+Court+1+Maple+Road%2C+Bramhall%2C+Stockport%2C+SK7+2DH%2C+Cheshire%2C+United+Kingdom"
+    },
+    {
+      "name": "TGF FACILITIES LTD",
+      "number": "17591117",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-19",
+      "address": "Stoke Cottage - Stoke Farm Little Stanney Lane, Stoak, Chester, CH2 4HW, Cheshire, England",
+      "address_line_1": "Stoke Cottage - Stoke Farm Little Stanney Lane",
+      "premises": null,
+      "postcode": "CH2 4HW",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "68320"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17591117",
+      "matched_places": [
+        "Chester"
+      ],
+      "address_check": {
+        "third_party": false,
+        "reasons": [],
+        "others_at_address": 0
+      },
+      "business_description": "Management of real estate on a fee or contract basis",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=Stoke+Cottage+-+Stoke+Farm+Little+Stanney+Lane%2C+Stoak%2C+Chester%2C+CH2+4HW%2C+Cheshire%2C+England"
+    },
+    {
+      "name": "VITA GREEN GP LIMITED",
+      "number": "17591477",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-19",
+      "address": "Horseshoe Farm, Elkington Way, Alderley Edge, SK9 7GU, England",
+      "address_line_1": "Horseshoe Farm",
+      "premises": null,
+      "postcode": "SK9 7GU",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "82990"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17591477",
+      "matched_places": [
+        "Alderley Edge"
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "94 other companies registered at this address"
+        ],
+        "others_at_address": 94
+      },
+      "business_description": "Other business support service activities n.e.c.",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=Horseshoe+Farm%2C+Elkington+Way%2C+Alderley+Edge%2C+SK9+7GU%2C+England"
+    },
+    {
+      "name": "VITA GREEN INVESTCO LIMITED",
+      "number": "17591407",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-19",
+      "address": "Horseshoe Farm, Elkington Way, Alderley Edge, SK9 7GU, England",
+      "address_line_1": "Horseshoe Farm",
+      "premises": null,
+      "postcode": "SK9 7GU",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "64209"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17591407",
+      "matched_places": [
+        "Alderley Edge"
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "94 other companies registered at this address"
+        ],
+        "others_at_address": 94
+      },
+      "business_description": "Activities of other holding companies n.e.c.",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=Horseshoe+Farm%2C+Elkington+Way%2C+Alderley+Edge%2C+SK9+7GU%2C+England"
+    },
+    {
+      "name": "VITA GREEN INVESTMENTS HOLDINGS LIMITED",
+      "number": "17590722",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-19",
+      "address": "Horseshoe Farm, Elkington Way, Alderley Edge, SK9 7GU, England",
+      "address_line_1": "Horseshoe Farm",
+      "premises": null,
+      "postcode": "SK9 7GU",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "64209"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17590722",
+      "matched_places": [
+        "Alderley Edge"
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "94 other companies registered at this address"
+        ],
+        "others_at_address": 94
+      },
+      "business_description": "Activities of other holding companies n.e.c.",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=Horseshoe+Farm%2C+Elkington+Way%2C+Alderley+Edge%2C+SK9+7GU%2C+England"
+    },
+    {
+      "name": "WK RESIDENTIAL LTD",
+      "number": "17590130",
+      "type": "ltd",
+      "status": "active",
+      "incorporated": "2026-11-19",
+      "address": "Bramhall House ,14 Ack Lane East, Bramhall, Stockport, SK7 2BY, England",
+      "address_line_1": "Bramhall House ,14 Ack Lane East",
+      "premises": null,
+      "postcode": "SK7 2BY",
+      "care_of": null,
+      "po_box": null,
+      "sic_codes": [
+        "68100"
+      ],
+      "url": "https://find-and-update.company-information.service.gov.uk/company/17590130",
+      "matched_places": [
+        "Bramhall"
+      ],
+      "address_check": {
+        "third_party": true,
+        "reasons": [
+          "85 other companies registered at this address"
+        ],
+        "others_at_address": 85
+      },
+      "business_description": "Buying and selling of own real estate",
+      "map_url": "https://www.google.com/maps/search/?api=1&query=Bramhall+House+%2C14+Ack+Lane+East%2C+Bramhall%2C+Stockport%2C+SK7+2BY%2C+England"
+    }
+  ]
+}
